@@ -143,7 +143,7 @@
   <string name="root_access_all">Приложения и ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Версия Slim</string>
+  <string name="slim_version_title">Версия NuclearSlim</string>
   <string name="slim_version_default">Неизвестно</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <string name="lcd_density">Плотность LCD</string>

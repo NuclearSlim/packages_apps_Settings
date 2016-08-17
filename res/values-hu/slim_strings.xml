@@ -144,7 +144,7 @@ Ez problémákat okozhat némelyik alkalmazásnál.</string>
   <string name="root_access_all">Alkalmazások és ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Slim verzió</string>
+  <string name="slim_version_title">NuclearSlim verzió</string>
   <string name="slim_version_default">Ismeretlen</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <string name="lcd_density">LCD-sűrűség</string>

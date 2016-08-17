@@ -143,7 +143,7 @@
   <string name="root_access_all">Aplikacje i ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Wersja Slim</string>
+  <string name="slim_version_title">Wersja NuclearSlim</string>
   <string name="slim_version_default">Nieznana</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <string name="lcd_density">Gęstość LCD</string>

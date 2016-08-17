@@ -123,7 +123,7 @@
   <string name="root_access_all">Програми та ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Версія Slim</string>
+  <string name="slim_version_title">Версія NuclearSlim</string>
   <string name="slim_version_default">Невідомо</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <!-- Wakeup options -->

@@ -210,7 +210,7 @@
   <!-- Memory -->
   <string name="memory_startup_apps_title">Aplicações iniciadas durante o arranque</string>
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Versão Slim</string>
+  <string name="slim_version_title">Versão NuclearSlim</string>
   <string name="slim_version_default">Desconhecida</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <string name="lcd_density">Densidade LCD</string>

@@ -202,7 +202,7 @@
   <!-- Memory -->
   <string name="memory_startup_apps_title">应用程序开机启动</string>
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Slim 版本</string>
+  <string name="slim_version_title">NuclearSlim 版本</string>
   <string name="slim_version_default">未知</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <string name="lcd_density">LCD 密度</string>

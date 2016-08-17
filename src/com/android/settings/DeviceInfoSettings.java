@@ -123,7 +123,7 @@ public class DeviceInfoSettings extends SettingsPreferenceFragment implements In
             getPreferenceScreen().removePreference(findPreference(KEY_SECURITY_PATCH));
 
         }
-        setValueSummary(KEY_SLIM_VERSION, "ro.slim.version");
+        setValueSummary(KEY_SLIM_VERSION, "ro.nuclear.version");
         setValueSummary(KEY_BASEBAND_VERSION, "gsm.version.baseband");
         setStringSummary(KEY_DEVICE_MODEL, Build.MODEL + getMsvSuffix());
         setValueSummary(KEY_EQUIPMENT_ID, PROPERTY_EQUIPMENT_ID);

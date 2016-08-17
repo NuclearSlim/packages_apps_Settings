@@ -123,7 +123,7 @@
   <string name="root_access_all">Apps en ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Slim versie</string>
+  <string name="slim_version_title">NuclearSlim versie</string>
   <string name="slim_version_default">Onbekend</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <!-- Wakeup options -->

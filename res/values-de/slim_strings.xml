@@ -199,7 +199,7 @@
   <string name="root_access_all">Apps und ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Slim-Version</string>
+  <string name="slim_version_title">NuclearSlim-Version</string>
   <string name="slim_version_default">Unbekannt</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <string name="lcd_density">LCD-Pixeldichte</string>

@@ -123,7 +123,7 @@
   <string name="root_access_all">Εφαρμογές και ADB</string>
   <!-- Memory -->
   <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Έκδοση Slim</string>
+  <string name="slim_version_title">Έκδοση NuclearSlim</string>
   <string name="slim_version_default">Άγνωστο</string>
   <!-- Display & Lights screen, setting options for LCD density -->
   <!-- Wakeup options -->
